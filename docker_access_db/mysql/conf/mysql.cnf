@@ -1,0 +1,9 @@
+[client]
+#local_infile=1
+default-character-set=utf8mb4
+[mysql]
+local_infile=1
+default-character-set=utf8mb4
+[mysqld]
+local_infile=on
+character-set-server=utf8mb4
